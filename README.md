@@ -1,19 +1,31 @@
 # ProjectEx6
 React-native
 //**************install npm library**************
+
 npm install --save firebase
+
 npm install react-native-vector-icons --save
+
 react-native link
+
 npm install --save react-navigation
+
 npm i react-native-router-flux
+
 npm install native-base --save
+
 react-native link
 
 //***************First setup git**************
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/your/link/project
+
 git push -u origin master
  
 # Push an existing repository from the command line
