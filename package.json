@@ -1,5 +1,5 @@
 {
-  "name": "ProjectEx6",
+  "name": "projectex6",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,11 +7,11 @@
     "test": "jest"
   },
   "dependencies": {
-    "firebase": "^4.7.0",
+    "firebase": "^4.6.2",
     "native-base": "^2.3.3",
     "react": "16.0.0",
-    "react-native": "0.50.4",
-    "react-native-vector-icons": "^4.4.2",
+    "react-native": "^0.50.4",
+    "react-native-vector-icons": "^4.6.0",
     "react-navigation": "^1.0.0-beta.21"
   },
   "devDependencies": {
@@ -22,5 +22,17 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "React-native\r //**************install npm library**************",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangtrancao/ProjectEx6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thangtrancao/ProjectEx6/issues"
+  },
+  "homepage": "https://github.com/thangtrancao/ProjectEx6#readme"
 }
